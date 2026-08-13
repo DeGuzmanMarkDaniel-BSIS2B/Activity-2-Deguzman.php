@@ -2,9 +2,13 @@
 // Nickname: Denden
 
 /*
- * Basic Information
- * This script demonstrates PHP basic syntax: comments,
- * variables, associative arrays, echo, and print.
+ * Name: De Guzman, Mark Daniel 
+ * Age: 19
+ * Address: Paombong, Bulacan 
+ * Hobbies: Gaming, Basketball 
+ * Dream job: Web Developer 
+ * Course: Bachelor of Science in Information System 
+ * School: Bulacan Polytechnic College 
  */
 
 $me = array(
@@ -13,7 +17,7 @@ $me = array(
     "address"   => "Paombong, Bulacan",
     "hobbies"   => "Gaming, Basketball",
     "dream_job" => "Web Developer",
-    "course"    => "Bachelor of Science Information System",
+    "course"    => "Bachelor of Science in Information System",
     "school"    => "Bulacan Polytechnic College"
 );
 
